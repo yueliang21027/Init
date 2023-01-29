@@ -7,6 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
-
+print("Hello, World! My name is 月亮")
 
